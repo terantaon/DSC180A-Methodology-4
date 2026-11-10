@@ -1,5 +1,5 @@
-# Chentao Gong c1gong@ucsd.edu
-## D38 Zhijian Liu
+## Chentao Gong c1gong@ucsd.edu
+D38 Zhijian Liu
 - **What is the most interesting topic covered in your domain this quarter?** \
 The most interesting topic I think is the implementation of speculative decoding and how we use it to speed up models.
 -  **Describe a potential investigation you would like to pursue for your Quarter 2 Project.** \
